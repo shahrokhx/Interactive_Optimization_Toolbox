@@ -7,6 +7,9 @@ Georgia Institute of Technology
 2018-2019
 
 <a href="https://www.sshahi.com/" target="_blank">www.sshahi.com</a>.
+
+* Download the latest release on MATLAB File Exchange: 
+[![View OPTool on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/99199-optool)
 ----
 ### About
 
