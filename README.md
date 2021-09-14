@@ -19,7 +19,7 @@ This tool includes an implementation of five gradient-based algorithms, includin
 *    (2) Conjugate Gradient Algorithm (CGA),
 *    (3) Newton's Method,
 *    (4) Davidson-Fletcher-Powell (DFP) Method,
-*    (5) Broyden–Fletcher–Goldfarb–Shanno (BFGS)Method,
+*    (5) Broyden–Fletcher–Goldfarb–Shanno (BFGS) Method,
 
 for multivariate function optimization. For two variable functions, a user-friendly interactive interface is available which portrays the optimization procedure step-by-step. 
 This toolbox can also serve as an educational tool to understand mainstream optimization techniques. 
