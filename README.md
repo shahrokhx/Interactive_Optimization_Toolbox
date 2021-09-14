@@ -1,7 +1,9 @@
 # Interactive Optimization Toolbox
 
 Developed by Shahrokh Shahi
+
 Georgia Institute of Technology
+
 2018-2019
 
 <a href="https://www.sshahi.com/" target="_blank">www.sshahi.com</a>.
